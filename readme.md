@@ -1,6 +1,10 @@
 # Objective
 
-Capture the tables the in ACA plan. Instruct LLM to be as accurate as possible when understanding the struture of the table.
+Capture the tables in the ACA plan. Instruct LLM to be as accurate as possible when understanding the struture of the table.
+
+The cost is around one cent.
+
+The JSON files are not altered in any way.
 
 ## Page 0
 
@@ -60,6 +64,7 @@ Capture the tables the in ACA plan. Instruct LLM to be as accurate as possible w
 - improve extracting tables, for instance we could ask for row and column headers
     - special treatment for certain types of tables
     - only one table per page is recognized
+    - try higher resolution
 
 - don't do by page but rather by table (merging pages)
 
