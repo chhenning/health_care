@@ -59,6 +59,9 @@ Capture the tables the in ACA plan. Instruct LLM to be as accurate as possible w
 
 - improve extracting tables, for instance we could ask for row and column headers
     - special treatment for certain types of tables
+    - only one table per page is recognized
+
+- don't do by page but rather by table (merging pages)
 
 - A more ambitious project would be to create a chatbot that ingest the plan and can answer questions
     - need to create a vector store (embeddings) of the plan data (strucutred text)
