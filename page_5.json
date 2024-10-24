@@ -1,0 +1,49 @@
+{
+    "Coverage Examples": [
+        {
+            "Scenario": "Peg is Having a Baby",
+            "Plan's Overall Deductible": "$1,500",
+            "Specialist Coinsurance": "0%",
+            "Hospital (facility) Coinsurance": "0%",
+            "Other Coinsurance": "0%",
+            "Total Example Cost": "$12,700",
+            "Cost Sharing": {
+                "Deductibles": "$1,500",
+                "Copayments": "$10",
+                "Coinsurance": "$0",
+                "Limits or Exclusions": "$60"
+            },
+            "Total Paid by Peg": "$1,570"
+        },
+        {
+            "Scenario": "Managing Joe’s Type 2 Diabetes",
+            "Plan's Overall Deductible": "$1,500",
+            "Specialist Coinsurance": "0%",
+            "Hospital (facility) Coinsurance": "0%",
+            "Other Coinsurance": "0%",
+            "Total Example Cost": "$5,600",
+            "Cost Sharing": {
+                "Deductibles": "$1,500",
+                "Copayments": "$700",
+                "Coinsurance": "$0",
+                "Limits or Exclusions": "$20"
+            },
+            "Total Paid by Joe": "$2,220"
+        },
+        {
+            "Scenario": "Mia’s Simple Fracture",
+            "Plan's Overall Deductible": "$1,500",
+            "Specialist Coinsurance": "0%",
+            "Hospital (facility) Coinsurance": "0%",
+            "Other Coinsurance": "0%",
+            "Total Example Cost": "$2,800",
+            "Cost Sharing": {
+                "Deductibles": "$1,500",
+                "Copayments": "$10",
+                "Coinsurance": "$0",
+                "Limits or Exclusions": "$0"
+            },
+            "Total Paid by Mia": "$1,510"
+        }
+    ]
+}

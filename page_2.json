@@ -1,0 +1,102 @@
+{
+    "table": [
+        {
+            "Common Medical Event": "If you need immediate medical attention",
+            "Services You May Need": "Emergency room care",
+            "In-Network Provider (You will pay the least)": "$150/admission",
+            "Non-Network Provider (You will pay the most)": "Covered as In-Network",
+            "Limitations, Exceptions, & Other Important Information": "Copay waived if admitted inpatient. 0% coinsurance for Emergency Room Physician Fee."
+        },
+        {
+            "Common Medical Event": "If you need immediate medical attention",
+            "Services You May Need": "Emergency medical transportation",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "Covered as In-Network",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Common Medical Event": "If you need immediate medical attention",
+            "Services You May Need": "Urgent care",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "$1,000 maximum/day for Non-Emergency Admissions to Non-Network Providers."
+        },
+        {
+            "Common Medical Event": "If you have a hospital stay",
+            "Services You May Need": "Facility fee (e.g., hospital room)",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "$1,000 maximum/day for Non-Emergency Admissions to Non-Network Providers."
+        },
+        {
+            "Common Medical Event": "If you have a hospital stay",
+            "Services You May Need": "Physician/surgeon fees",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Common Medical Event": "If you need mental health, behavioral health, or substance abuse services",
+            "Services You May Need": "Outpatient services",
+            "In-Network Provider (You will pay the least)": "Office Visit 0% coinsurance Other Outpatient 0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "Office Visit 20% coinsurance Other Outpatient 20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "Office Visit -------none------- Other Outpatient -------none-------"
+        },
+        {
+            "Common Medical Event": "If you need mental health, behavioral health, or substance abuse services",
+            "Services You May Need": "Inpatient services",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "$1,000 maximum/day for Non-Emergency Admissions to Non-Network Providers. 0% coinsurance for Inpatient Physician Fee In-Network Providers. 20% coinsurance for Inpatient Physician Fee Non-Network Providers."
+        },
+        {
+            "Common Medical Event": "If you are pregnant",
+            "Services You May Need": "Office visits",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "$1,000 maximum/day for Non-Emergency Admissions to Non-Network Providers. Maternity care may include tests and services described elsewhere in the SBC (i.e. ultrasound)."
+        },
+        {
+            "Common Medical Event": "If you are pregnant",
+            "Services You May Need": "Childbirth/delivery professional services",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "Coverage includes fertility preservation services, see Fertility Preservation section."
+        },
+        {
+            "Common Medical Event": "If you are pregnant",
+            "Services You May Need": "Childbirth/delivery facility services",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "Coverage includes fertility preservation services, see Fertility Preservation section."
+        },
+        {
+            "Common Medical Event": "If you need help recovering or have other special health needs",
+            "Services You May Need": "Home health care",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "100 visits/benefit period."
+        },
+        {
+            "Common Medical Event": "If you need help recovering or have other special health needs",
+            "Services You May Need": "Rehabilitation services",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "Costs may vary by site of service. *See Therapy Services section."
+        },
+        {
+            "Common Medical Event": "If you need help recovering or have other special health needs",
+            "Services You May Need": "Habilitation services",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "Costs may vary by site of service. *See Therapy Services section."
+        },
+        {
+            "Common Medical Event": "If you need help recovering or have other special health needs",
+            "Services You May Need": "Skilled nursing care",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "100 days/benefit period for skilled nursing services."
+        }
+    ]
+}

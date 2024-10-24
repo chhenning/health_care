@@ -1,0 +1,81 @@
+{
+    "table": [
+        {
+            "Common Medical Event": "If you visit a health care provider’s office or clinic",
+            "Services You May Need": "Primary care visit to treat an injury or illness",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Common Medical Event": "If you visit a health care provider’s office or clinic",
+            "Services You May Need": "Specialist visit",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "You may have to pay for services that aren’t preventive. Ask your provider if the services needed are preventive. Then check what your plan will pay for."
+        },
+        {
+            "Common Medical Event": "If you visit a health care provider’s office or clinic",
+            "Services You May Need": "Preventive care/screening/ immunization",
+            "In-Network Provider (You will pay the least)": "No charge",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Common Medical Event": "If you have a test",
+            "Services You May Need": "Diagnostic test (x-ray, blood work)",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Common Medical Event": "If you have a test",
+            "Services You May Need": "Imaging (CT/PET scans, MRIs)",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "$800 maximum/service for Non-Network Providers."
+        },
+        {
+            "Common Medical Event": "If you need drugs to treat your illness or condition",
+            "Services You May Need": "Tier 1 - Typically Generic",
+            "In-Network Provider (You will pay the least)": "$10/prescription (retail) and $20/prescription (home delivery)",
+            "Non-Network Provider (You will pay the most)": "30% coinsurance up to $250/prescription (retail) and Not covered (home delivery)",
+            "Limitations, Exceptions, & Other Important Information": "Most home delivery is 90-day supply. For more information, refer to “National Drug List” at http://www.anthem.com/pharmacyinformation/"
+        },
+        {
+            "Common Medical Event": "If you need drugs to treat your illness or condition",
+            "Services You May Need": "Tier 2 - Typically Preferred Brand & Non-Preferred Generic Drugs",
+            "In-Network Provider (You will pay the least)": "$20/prescription (retail) and $40/prescription (home delivery)",
+            "Non-Network Provider (You will pay the most)": "30% coinsurance up to $250/prescription (retail) and Not covered (home delivery)",
+            "Limitations, Exceptions, & Other Important Information": "*See Prescription Drug section of the plan or policy document (e.g. evidence of coverage or certificate)."
+        },
+        {
+            "Common Medical Event": "If you need drugs to treat your illness or condition",
+            "Services You May Need": "Tier 3 - Typically Non-Preferred Brand and Generic drugs",
+            "In-Network Provider (You will pay the least)": "$30/prescription (retail) and $60/prescription (home delivery)",
+            "Non-Network Provider (You will pay the most)": "30% coinsurance up to $250/prescription (retail) and Not covered (home delivery)",
+            "Limitations, Exceptions, & Other Important Information": null
+        },
+        {
+            "Common Medical Event": "If you need drugs to treat your illness or condition",
+            "Services You May Need": "Tier 4 - Typically Preferred Specialty (brand and generic)",
+            "In-Network Provider (You will pay the least)": "$30/prescription (retail and home delivery)",
+            "Non-Network Provider (You will pay the most)": "30% coinsurance up to $250/prescription (retail) and Not covered (home delivery)",
+            "Limitations, Exceptions, & Other Important Information": null
+        },
+        {
+            "Common Medical Event": "If you have outpatient surgery",
+            "Services You May Need": "Facility fee (e.g., ambulatory surgery center)",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "$350 maximum/service for Non-Network Providers."
+        },
+        {
+            "Common Medical Event": "If you have outpatient surgery",
+            "Services You May Need": "Physician/surgeon fees",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        }
+    ]
+}

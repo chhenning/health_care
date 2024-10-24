@@ -1,0 +1,34 @@
+{
+    "Common Medical Event": [
+        {
+            "Services You May Need": "Durable medical equipment",
+            "In-Network Provider (You will pay the least)": "20% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "*See Durable Medical Equipment Section"
+        },
+        {
+            "Services You May Need": "Hospice services",
+            "In-Network Provider (You will pay the least)": "0% coinsurance",
+            "Non-Network Provider (You will pay the most)": "20% coinsurance",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Services You May Need": "Children’s eye exam",
+            "In-Network Provider (You will pay the least)": "No charge",
+            "Non-Network Provider (You will pay the most)": "$0 copayment up to plan's Maximum Allowed Amount",
+            "Limitations, Exceptions, & Other Important Information": "*See Vision Services section"
+        },
+        {
+            "Services You May Need": "Children’s glasses",
+            "In-Network Provider (You will pay the least)": "Not covered",
+            "Non-Network Provider (You will pay the most)": "Not covered",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        },
+        {
+            "Services You May Need": "Children’s dental check-up",
+            "In-Network Provider (You will pay the least)": "Not covered",
+            "Non-Network Provider (You will pay the most)": "Not covered",
+            "Limitations, Exceptions, & Other Important Information": "-------none-------"
+        }
+    ]
+}
