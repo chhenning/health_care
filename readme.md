@@ -2,7 +2,7 @@
 
 Capture the tables in the ACA plan. Instruct LLM to be as accurate as possible when understanding the struture of the table.
 
-The cost is around one cent.
+The cost is around one cent and the processing took around 1 min.
 
 The JSON files are not altered in any way.
 
@@ -21,6 +21,8 @@ The JSON files are not altered in any way.
 - LLM is ignoring left over table on the top of the page
 - the "what you will pay" is ignored
 - the cell for `If you need drugs to treat your illness or condition` is split into several rows
+
+- for `If you need immediate medical attention` and `Urgent care` the `Limitations, Exceptions, & Other Important Information` is incorrect
 
 
 ## Page 2
@@ -62,12 +64,19 @@ The JSON files are not altered in any way.
 # Next Steps
 
 - improve extracting tables, for instance we could ask for row and column headers
+    - try Google Gemini and others
     - special treatment for certain types of tables
     - only one table per page is recognized
     - try higher resolution
-
-- don't do by page but rather by table (merging pages)
-
-- A more ambitious project would be to create a chatbot that ingest the plan and can answer questions
-    - need to create a vector store (embeddings) of the plan data (strucutred text)
     
+- don't do by page but rather by table (merging pages)
+    - the context window might not be big enough
+
+- A more ambitious project would be to create LLM agent which would be comunicating with the LLM. For instance, via this workflow:
+    - the idea is to mix business logic with LLM interaction
+    - it also would be good send examples (similar pages)
+
+    1. Ask how many tables are on the page?
+    2. Is the first page a left over page from the previous page (upload previous page)
+    3. Loop through all tables and ask for row and column headers.
+    4. ...
