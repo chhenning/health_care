@@ -1,0 +1,81 @@
+{
+    "page": 3,
+    "table": {
+      "Common Medical Event": [
+        "If you need\nimmediate\nmedical attention",
+        "",
+        "",
+        "If you have a\nhospital stay",
+        "",
+        "If you need\nmental health,\nbehavioral health,\nor substance\nabuse services",
+        "",
+        "",
+        "If you are\npregnant",
+        "",
+        "If you need help\nrecovering or\nhave other special\nhealth needs",
+        "",
+        "",
+        ""
+      ],
+      "Services You May Need": [
+        "Emergency room care",
+        "Emergency medical\ntransportation",
+        "Urgent care",
+        "Facility fee (e.g., hospital room)",
+        "Physician/surgeon fees",
+        "Outpatient services",
+        "Inpatient services",
+        "Office visits",
+        "Childbirth/delivery professional\nservices",
+        "Childbirth/delivery facility\nservices",
+        "Home health care",
+        "Rehabilitation services",
+        "Habilitation services",
+        "Skilled nursing care"
+      ],
+      "In-Network Provider\n(You will pay the least)": [
+        "$150/admission",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "Office Visit\n0% coinsurance\nOther Outpatient\n0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance",
+        "0% coinsurance"
+      ],
+      "Non-Network Provider\n(You will pay the most)": [
+        "Covered as In-Network",
+        "Covered as In-Network",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "Office Visit\n20% coinsurance\nOther Outpatient\n20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance"
+      ],
+      "Limitations, Exceptions, &\nOther Important Information": [
+        "Copay waived if admitted\ninpatient. 0% coinsurance for\nEmergency Room Physician Fee.",
+        "--------none-",
+        "--------none-",
+        "$1,000 maximum/day for Non-\nEmergency Admissions to Non-\nNetwork Providers.",
+        "----none---",
+        "Office Visit\n----none-\nOther Outpatient\n--none--",
+        "$1,000 maximum/day for Non-\nEmergency Admissions to Non-\nNetwork Providers. 0%\ncoinsurance for Inpatient\nPhysician Fee In-Network\nProviders. 20% coinsurance for\nInpatient Physician Fee Non-\nNetwork Providers.",
+        "$1,000 maximum/day for Non-\nEmergency Admissions to Non-\nNetwork Providers. Maternity\ncare may include tests and\nservices described elsewhere in\nthe SBC (i.e. ultrasound).\n*Coverage includes fertility\npreservation services, see\nFertility Preservation section.",
+        "100 visits/benefit period.\nCosts may vary by site of service.\n*See Therapy Services section.",
+        "100 days/benefit period for\nskilled nursing services."
+      ]
+    }
+  }

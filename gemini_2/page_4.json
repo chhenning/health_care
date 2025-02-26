@@ -1,0 +1,35 @@
+{
+    "page": 4,
+    "table": {
+      "Common Medical Event": [
+        "If your child\nneeds dental or\neye care"
+      ],
+      "Services You May Need": [
+        "Durable medical equipment",
+        "Hospice services",
+        "Children's eye exam",
+        "Children's glasses",
+        "Children's dental check-up"
+      ],
+      "In-Network Provider\n(You will pay the least)": [
+        "20% coinsurance",
+        "0% coinsurance",
+        "No charge",
+        "Not covered",
+        "Not covered"
+      ],
+      "Non-Network Provider\n(You will pay the most)": [
+        "20% coinsurance",
+        "20% coinsurance",
+        "$0 copayment up to plan's\nMaximum Allowed Amount",
+        "Not covered",
+        "Not covered"
+      ],
+      "Limitations, Exceptions, &\nOther Important Information": [
+        "*See Durable Medical\nEquipment Section",
+        "--------none-",
+        "*See Vision Services section",
+        "----none-----"
+      ]
+    }
+  }

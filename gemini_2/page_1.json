@@ -1,0 +1,29 @@
+{
+    "page": 1,
+    "table": {
+      "Important Questions": [
+        "What is the overall \ndeductible?",
+        "Are there services \ncovered before you \nmeet your deductible?",
+        "Are there other \ndeductibles for \nspecific services?",
+        "What is the out-of-\npocket limit for this \nplan?",
+        "What is not included \nin the out-of-pocket \nlimit?",
+        "Will you pay less if \nyou use a network \nprovider?"
+      ],
+      "Answers": [
+        "$1,500/person or\n$2,800/member or\n$3,000/family for In-Network\nProviders. $3,000/person or\n$3,000/member or\n$6,000/family for Non-\nNetwork Providers.",
+        "Yes. Preventive Care for In-\nNetwork Providers. Vision for\nIn-Network and Non-Network\nProviders.",
+        "No.",
+        "$6,450/person or\n$6,450/member or\n$12,900/family for In-Network\nProviders. $7,500/person or\n$7,500/member or\n$15,000/family for Non-\nNetwork Providers.",
+        "Premiums, balance-billing\ncharges, and health care this\nplan doesn't cover.",
+        "Yes, Prudent Buyer PPO. See\nwww.anthem.com/ca or call\n(855) 333-5730 for a list of"
+      ],
+      "Why This Matters": [
+        "Generally, you must pay all of the costs from providers up to the deductible amount before\nthis plan begins to pay. If you have other family members on the plan, each family member\nmust meet their own individual deductible until the total amount of deductible expenses paid\nby all family members meets the overall family deductible.",
+        "This plan covers some items and services even if you haven't yet met the deductible amount.\nBut a copayment or coinsurance may apply. For example, this plan covers certain preventive\nservices without cost-sharing and before you meet your deductible. See a list of covered\npreventive services at https://www.healthcare.gov/coverage/preventive-care-benefits/.",
+        "You don't have to meet deductibles for specific services.",
+        "The out-of-pocket limit is the most you could pay in a year for covered services. If you have\nother family members in this plan, they have to meet their own out-of-pocket limits until the\noverall family out-of-pocket limit has been met.",
+        "Even though you pay these expenses, they don't count toward the out-of-pocket limit.",
+        "This plan uses a provider network. You will pay less if you use a provider in the plan's\nnetwork. You will pay the most if you use an Out-of-Network Provider, and you might\nreceive a bill from a provider for the difference between the provider's charge and what your"
+      ]
+    }
+  }

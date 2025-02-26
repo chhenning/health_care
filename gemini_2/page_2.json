@@ -1,0 +1,72 @@
+{
+    "page": 2,
+    "table": {
+      "Common Medical Event": [
+        "If you visit a\nhealth care\nprovider's office\nor clinic",
+        "",
+        "If you have a test",
+        "",
+        "If you need drugs\nto treat your\nillness or\ncondition\nMore information\nabout prescription\ndrug coverage is\navailable at\nhttp://www.anthe\nm.com/pharmacyi\nnformation/",
+        "",
+        "",
+        "If you have\noutpatient\nsurgery"
+      ],
+      "Services You May Need": [
+        "network providers.",
+        "Do you need a referral No.\nto see a specialist?",
+        "Primary care visit to treat an\ninjury or illness",
+        "Specialist visit",
+        "Preventive care/screening/\nimmunization",
+        "Diagnostic test (x-ray, blood\nwork)",
+        "Imaging (CT/PET scans, MRIs)",
+        "Tier 1 - Typically Generic",
+        "Tier 2 - Typically Preferred\nBrand & Non-Preferred\nGeneric Drugs",
+        "Tier 3 - Typically Non-Preferred\nBrand and Generic drugs",
+        "Tier 4 - Typically Preferred\nSpecialty (brand and generic)",
+        "Facility fee (e.g., ambulatory\nsurgery center)",
+        "Physician/surgeon fees"
+      ],
+      "In-Network Provider\n(You will pay the least)": [
+        "plan pays (balance billing). Be aware, your network provider might use an Out-of-Network\nProvider for some services (such as lab work). Check with your provider before you get\nservices.",
+        "You can see the specialist you choose without a referral.",
+        "0% coinsurance",
+        "0% coinsurance",
+        "No charge",
+        "0% coinsurance",
+        "0% coinsurance",
+        "$10/prescription (retail) and\n$20/prescription (home\ndelivery)",
+        "$20/prescription (retail) and\n$40/prescription (home\ndelivery)",
+        "$30/prescription (retail) and\n$60/prescription (home\ndelivery)",
+        "$30/prescription (retail and\nhome delivery)",
+        "0% coinsurance",
+        "0% coinsurance"
+      ],
+      "Non-Network Provider\n(You will pay the most)": [
+        "",
+        "",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "20% coinsurance",
+        "30% coinsurance up to\n$250/prescription (retail) and\nNot covered (home delivery)",
+        "30% coinsurance up to\n$250/prescription (retail) and\nNot covered (home delivery)",
+        "30% coinsurance up to\n$250/prescription (retail) and\nNot covered (home delivery)",
+        "30% coinsurance up to\n$250/prescription (retail) and\nNot covered (home delivery)",
+        "20% coinsurance",
+        "20% coinsurance"
+      ],
+      "Limitations, Exceptions, &\nOther Important Information": [
+        "",
+        "",
+        "----none-----",
+        "----none-----",
+        "You may have to pay for services\nthat aren't preventive. Ask your\nprovider if the services needed\nare preventive. Then check what\nyour plan will pay for.",
+        "----none-----",
+        "$800 maximum/service for Non-\nNetwork Providers.",
+        "Most home delivery is 90-day\nsupply. For more information,\nrefer to “National Drug List” at\nhttp://www.anthem.com/pharm\nacyinformation/\n*See Prescription Drug section\nof the plan or policy document\n(e.g. evidence of coverage or\ncertificate).",
+        "$350 maximum/service for Non-\nNetwork Providers.",
+        "----none-----"
+      ]
+    }
+  }

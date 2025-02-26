@@ -1,0 +1,67 @@
+{
+    "page": 6,
+    "table": {
+      "title": "Peg is Having a Baby\n(9 months of in-network pre-natal care and a\nhospital delivery)",
+      "columns": [
+        "Managing Joe's Type 2 Diabetes\n(a year of routine in-network care of a well-\ncontrolled condition)",
+        "Mia's Simple Fracture\n(in-network emergency room visit and follow\nup care)"
+      ],
+      "rows": [
+        [
+          "The plan's overall deductible\nSpecialist coinsurance\nHospital (facility) coinsurance\n■ Other coinsurance",
+          "The plan's overall deductible\nSpecialist coinsurance\nHospital (facility) coinsurance\n■ Other coinsurance",
+          "The plan's overall deductible\nSpecialist coinsurance\nHospital (facility) coinsurance\n■ Other coinsurance"
+        ],
+        [
+          "$1,500\n0%\n0%\n0%",
+          "$1,500\n0%\n0%\n0%",
+          "$1,500\n0%\n0%\n0%"
+        ],
+        [
+          "This EXAMPLE event includes services\nlike:\nSpecialist office visits (prenatal care)\nChildbirth/Delivery Professional Services\nChildbirth/Delivery Facility Services\nDiagnostic tests (ultrasounds and blood work)\nSpecialist visit (anesthesia)",
+          "This EXAMPLE event includes services\nlike:\nPrimary care physician office visits (including\ndisease education)\nDiagnostic tests (blood work)\nPrescription drugs\nDurable medical equipment (glucose meter)",
+          "This EXAMPLE event includes services\nlike:\nEmergency room care (including medical supplies)\nDiagnostic test (x-ray)\nDurable medical equipment (crutches)\nRehabilitation services (physical therapy)"
+        ],
+        [
+          "Total Example Cost\n$12,700",
+          "Total Example Cost\n$5,600",
+          "Total Example Cost\n$2,800"
+        ],
+        [
+          "In this example, Peg would pay:",
+          "In this example, Joe would pay:",
+          "In this example, Mia would pay:"
+        ],
+        [
+          "Cost Sharing",
+          "Cost Sharing",
+          "Cost Sharing"
+        ],
+        [
+          "Deductibles\nCopayments\nCoinsurance",
+          "Deductibles\nCopayments\nCoinsurance",
+          "Deductibles\nCopayments\nCoinsurance"
+        ],
+        [
+          "$1,500\n$10\n$0",
+          "$1,500\n$700\n$0",
+          "$1,500\n$10\n$0"
+        ],
+        [
+          "What isn't covered",
+          "What isn't covered",
+          "What isn't covered"
+        ],
+        [
+          "Limits or exclusions\nThe total Peg would pay is",
+          "Limits or exclusions\nThe total Joe would pay is",
+          "Limits or exclusions\nThe total Mia would pay is"
+        ],
+        [
+          "$60\n$1,570",
+          "$20\n$2,220",
+          "$0\n$1,510"
+        ]
+      ]
+    }
+  }
